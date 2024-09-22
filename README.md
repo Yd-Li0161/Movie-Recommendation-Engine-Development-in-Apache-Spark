@@ -4,4 +4,4 @@
 
 	Implemented the Alternative Least Square model to provide personalized movie recommendations and developed user-based approaches to handle system cold-start problems.
 
-	Conducted model hyper-parameters tuning with Spark ML cross-evaluation toolbox and monitored data processing performance via Spark UI on AWS.
+	Conducted hyper-parameter tuning with 5-fold cross-validation and applied the optimal hyper-parameters to the final model, achieving a RMSE of approximately 0.88
